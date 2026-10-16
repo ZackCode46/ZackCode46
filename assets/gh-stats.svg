@@ -63,40 +63,59 @@
   <rect class="underline" x="48" y="96" width="181" height="2" fill="#2c4add" rx="1"/>
 
   <!-- meta line -->
-  <text class="meta" x="48" y="120" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="11" letter-spacing="2">@GITHUB-USER   ·   — CONTRIBUTIONS   ·   NOT LOADED</text>
+  <text class="meta" x="48" y="120" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="11" letter-spacing="2">@ZACKCODE46   ·   162 CONTRIBUTIONS   ·   GRAPHQL</text>
 
   <!-- stat blocks -->
   <g transform="translate(48 156)">
       <g class="stat s0">
         <text x="0" y="0" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">REPOS</text>
-        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">—</text>
-        <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">load github</text>
+        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">16</text>
+        <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">16 indexed</text>
       </g>
     </g>
   <g transform="translate(230 156)">
       <g class="stat s1">
         <text x="0" y="0" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">COMMITS</text>
-        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">—</text>
+        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">151</text>
         <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">this year</text>
       </g>
     </g>
   <g transform="translate(412 156)">
       <g class="stat s2">
         <text x="0" y="0" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">PRS</text>
-        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">—</text>
-        <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">authored</text>
+        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">0</text>
+        <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">0 this year</text>
       </g>
     </g>
   <g transform="translate(594 156)">
       <g class="stat s3">
         <text x="0" y="0" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">REVIEWS</text>
-        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">—</text>
+        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">0</text>
         <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">this year</text>
       </g>
     </g>
 
   <!-- language strip -->
   <rect x="48" y="254" width="704" height="6" rx="3" fill="#a5a5b3" fill-opacity="0.2"/>
-  <g class="lang-bar"><rect x="48" y="254" width="704" height="6" rx="3" fill="#2c4add" fill-opacity="0.18"/></g>
-  <text x="48" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4" fill-opacity="0.7">LOAD GITHUB STATS TO POPULATE</text>
+  <g class="lang-bar"><rect x="48" y="254" width="398.464" height="6" rx="3" fill="#3178c6"/>
+  <rect x="446.464" y="254" width="118.272" height="6" rx="3" fill="#f1e05a"/>
+  <rect x="564.736" y="254" width="85.88799999999999" height="6" rx="3" fill="#e34c26"/>
+  <rect x="650.624" y="254" width="79.552" height="6" rx="3" fill="#663399"/>
+  <rect x="730.176" y="254" width="21.823999999999955" height="6" rx="3" fill="#3572A5"/></g>
+  <g>
+        <rect x="48" y="279" width="8" height="8" rx="2" fill="#3178c6"/>
+        <text x="64" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">TYPESCRIPT  57%</text>
+      </g>
+  <g>
+        <rect x="224" y="279" width="8" height="8" rx="2" fill="#f1e05a"/>
+        <text x="240" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">JAVASCRIPT  17%</text>
+      </g>
+  <g>
+        <rect x="400" y="279" width="8" height="8" rx="2" fill="#e34c26"/>
+        <text x="416" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">HTML  12%</text>
+      </g>
+  <g>
+        <rect x="576" y="279" width="8" height="8" rx="2" fill="#663399"/>
+        <text x="592" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">CSS  11%</text>
+      </g>
 </svg>
