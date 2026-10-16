@@ -1,8 +1,8 @@
-<img src="https://github.com/ZackCode46/ZackCode46/blob/main/assets/header.svg" width="100%" alt="Sleek Hero">
+<img src="https://raw.githubusercontent.com/ZackCode46/ZackCode46/main/header.svg" width="100%" alt="Sleek Hero">
 
 <br/>
 
-<img src="https://github.com/ZackCode46/ZackCode46/blob/main/assets/about.svg" width="100%" alt="Sleek About">
+<img src="https://raw.githubusercontent.com/ZackCode46/ZackCode46/main/about.svg" width="100%" alt="Sleek About">
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://github.com/ZackCode46/ZackCode46/blob/main/assets/footer.svg" width="100%" alt="Sleek Wave">
+<img src="https://raw.githubusercontent.com/ZackCode46/ZackCode46/main/footer.svg" width="100%" alt="Sleek Wave">
 
 <!--
 **ZackCode46/ZackCode46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
