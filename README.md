@@ -6,11 +6,11 @@
 
 <br/>
 
-<img src="https://github.com/ZackCode46/ZackCode46/blob/main/assets/skills.svg" width="100%" alt="Sleek Stack">
+<img src="https://raw.githubusercontent.com/ZackCode46/ZackCode46/main/skills.svg" width="100%" alt="Sleek Stack">
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ZackCode46/ZackCode46/main/skills.svg" width="100%" alt="Sleek Stack">
+<img src="https://ryme.md/api/render/sleek-github-stats?u=ZackCode46&bg=0d0d10&fg=f7f7fb&accent=2c4add&muted=a5a5b3" width="100%" alt="Sleek GitHub">
 
 <br/>
 
